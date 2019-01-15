@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="kakao_color">#F9ECF752</color>
+    <color name="naver_color">#F913D205</color>
+    <color name="white_color">#ffffff</color>
+    <color name="text_color">#000000</color>
 </resources>

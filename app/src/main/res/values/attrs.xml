@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoginButton">
+        <attr name="bg" format="reference|integer" />
+        <attr name="symbol" format="reference|integer" />
+        <attr name="text" format="reference|string" />
+        <attr name="textColor" format="reference|integer" />
+    </declare-styleable>
+
+
+
+    <!--reference : @string/aaa, String 같은 참조할 수 있는 속성-->
+    <!--위에서 정의한 4개의 이름으로 속성 값을 입력 받을 수 있음.-->
+</resources>
